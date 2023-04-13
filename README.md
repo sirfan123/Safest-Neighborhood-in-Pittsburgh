@@ -1,9 +1,18 @@
 # Big-ideas-final-project-
 
-https://data.wprdc.org/dataset/arrest-data Police Arrest 
+Pitt Coders 
 
-https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses Accidental Overdose
+Members:
+Danish Ghumman - dag197@pitt.edu
+Samih Irfan - sai48@pitt.edu
 
-https://data.wprdc.org/dataset/allegheny-county-911-dispatches-ems-and-fire 911 dispatches
+Data Used for Project: 
 
+Police arrest data
+https://data.wprdc.org/dataset/arrest-data 
+Accidental Overdose data 
+https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses 
+911 dispatches data 
+https://data.wprdc.org/dataset/allegheny-county-911-dispatches-ems-and-fire 
 
+Welcome to our project! This project is meant to find the safest neighborhood in Pittsburgh using crime and police data from the WPRDC website!
